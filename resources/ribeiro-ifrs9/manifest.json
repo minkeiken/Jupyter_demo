@@ -1,0 +1,134 @@
+[
+  {
+    "path": "program/DATASET.zip",
+    "url": "https://jorgeribeiro.co.uk/program/DATASET.zip",
+    "bytes": 148654321,
+    "sha256": "c41e47d67f380cada1317adb20eab7636b48a8b7cd2251836794a4093e248ed8"
+  },
+  {
+    "path": "program/CHAPTER_2_V1.sas",
+    "url": "https://jorgeribeiro.co.uk/program/CHAPTER_2_V1.sas",
+    "bytes": 30096,
+    "sha256": "d6e5f1462a2664a76da5ce82a95fee3194b981089ece3dd7d0e6ac0b470a72cc"
+  },
+  {
+    "path": "program/CHAPTER_2_V1.py",
+    "url": "https://jorgeribeiro.co.uk/program/CHAPTER_2_V1.py",
+    "bytes": 12704,
+    "sha256": "930085a5c4602e81667674feaf372cb117152af9a1ad62ab18fb790a497dea6d"
+  },
+  {
+    "path": "program/CHAPTER_2_V1.R",
+    "url": "https://jorgeribeiro.co.uk/program/CHAPTER_2_V1.R",
+    "bytes": 12423,
+    "sha256": "398725c72cdbb06e84cf3cebe9ae315a661ddde35dcf0ad79fb66c6a48ad9b67"
+  },
+  {
+    "path": "program/CHAPTER_3_V1.sas",
+    "url": "https://jorgeribeiro.co.uk/program/CHAPTER_3_V1.sas",
+    "bytes": 12561,
+    "sha256": "e1170b44dcd9d5d80ae07d90557405110d3ca63e6878fbae977221de5906e564"
+  },
+  {
+    "path": "program/CHAPTER_3_V1.py",
+    "url": "https://jorgeribeiro.co.uk/program/CHAPTER_3_V1.py",
+    "bytes": 25988,
+    "sha256": "73f52ee8f807ca1965c00f3332a127eded14555f0c2938dd611575827b14a9c0"
+  },
+  {
+    "path": "program/CHAPTER_3_V1.R",
+    "url": "https://jorgeribeiro.co.uk/program/CHAPTER_3_V1.R",
+    "bytes": 10391,
+    "sha256": "a4e5ae2d6841e38542cc75a5d5958d45c8329bb18dfe0831e916e76c18411810"
+  },
+  {
+    "path": "program/CHAPTER_4_V1.sas",
+    "url": "https://jorgeribeiro.co.uk/program/CHAPTER_4_V1.sas",
+    "bytes": 14879,
+    "sha256": "754816759b95fcbd2c6cb06851bf6fb996595cbcf75ee2f61c5a2d2e1d467664"
+  },
+  {
+    "path": "program/CHAPTER_4_V1.py",
+    "url": "https://jorgeribeiro.co.uk/program/CHAPTER_4_V1.py",
+    "bytes": 6815,
+    "sha256": "6e91b3a65c2b1842d50acc24299462ff8b2a160a65f378b9eec793fcd54679bd"
+  },
+  {
+    "path": "program/CHAPTER_4_V1.R",
+    "url": "https://jorgeribeiro.co.uk/program/CHAPTER_4_V1.R",
+    "bytes": 2841,
+    "sha256": "7004ae4ebddd9b5d903df4a4ed809707998fbc4de2fc9b752184ca0ce27de7af"
+  },
+  {
+    "path": "program/CHAPTER_5_V1.sas",
+    "url": "https://jorgeribeiro.co.uk/program/CHAPTER_5_V1.sas",
+    "bytes": 5875,
+    "sha256": "89e2650dda354d71b6f2721682f4d63c6af4da2b09a7ec1738475e01df002158"
+  },
+  {
+    "path": "program/CHAPTER_5_V1.py",
+    "url": "https://jorgeribeiro.co.uk/program/CHAPTER_5_V1.py",
+    "bytes": 14608,
+    "sha256": "66a0f00cc5b8eddc9b932f50bbbbbd84525fd8f4c0eb7154b40be4c0b3d30f30"
+  },
+  {
+    "path": "program/CHAPTER_5_V1.R",
+    "url": "https://jorgeribeiro.co.uk/program/CHAPTER_5_V1.R",
+    "bytes": 11563,
+    "sha256": "d370e18bde13540a838056ddf4d040473249aab4f27d3646a41a0c332aa5bc7a"
+  },
+  {
+    "path": "program/CHAPTER_6_v1.sas",
+    "url": "https://jorgeribeiro.co.uk/program/CHAPTER_6_v1.sas",
+    "bytes": 12770,
+    "sha256": "a37322e93764aacf40c5037c3789e8593fc06433117b584ce9b6699c4aa79625"
+  },
+  {
+    "path": "program/CHAPTER_6_V1.py",
+    "url": "https://jorgeribeiro.co.uk/program/CHAPTER_6_V1.py",
+    "bytes": 4727,
+    "sha256": "43296483211f621b30f8264f2b41afc0f504743c8cacfa6a5661df3befcbca66"
+  },
+  {
+    "path": "program/CHAPTER_6_V1.R",
+    "url": "https://jorgeribeiro.co.uk/program/CHAPTER_6_V1.R",
+    "bytes": 16753,
+    "sha256": "628fa050c3674bf27d3b571837d34bb7e39f1b656ed72fe583d711e285c33c42"
+  },
+  {
+    "path": "program/CHAPTER_7_V1.sas",
+    "url": "https://jorgeribeiro.co.uk/program/CHAPTER_7_V1.sas",
+    "bytes": 6115,
+    "sha256": "c1cd31038ffd412502d5b16d709ff1ff1d669243a0604f2664199fb7090900d7"
+  },
+  {
+    "path": "program/CHAPTER_7_V1.py",
+    "url": "https://jorgeribeiro.co.uk/program/CHAPTER_7_V1.py",
+    "bytes": 8286,
+    "sha256": "f9201f31f28e0a1c83cc8c21d6981182297b4ae24bab959f046871279af91c10"
+  },
+  {
+    "path": "program/CHAPTER_7_V1.R",
+    "url": "https://jorgeribeiro.co.uk/program/CHAPTER_7_V1.R",
+    "bytes": 11198,
+    "sha256": "7816b42d7c058483fba67934b02e46ba2158c34f1a0bd6143983219099567992"
+  },
+  {
+    "path": "images/sas.png",
+    "url": "https://jorgeribeiro.co.uk/images/sas.png",
+    "bytes": 28939,
+    "sha256": "6624ba170fadd6882df5258b7b994b68e7a165396085f6ff331aad8186ab93d9"
+  },
+  {
+    "path": "images/Python.png",
+    "url": "https://jorgeribeiro.co.uk/images/Python.png",
+    "bytes": 26030,
+    "sha256": "42e161a5bc1419878cebcd4b3f3b77a600d9d04a84e4d35135e716557e902183"
+  },
+  {
+    "path": "images/Rlogo.png",
+    "url": "https://jorgeribeiro.co.uk/images/Rlogo.png",
+    "bytes": 48148,
+    "sha256": "78b4fc7952f18bcdd48077dd52bb7eb5aa07141828ec743b9528445c47771582"
+  }
+]
